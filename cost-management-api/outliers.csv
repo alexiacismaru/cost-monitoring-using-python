@@ -1,0 +1,2 @@
+AmazonCloudWatch,AmazonEC2,AmazonEKS,AmazonVPC,AmazonS3,AwsConfig,AWSKMS,ComputeEngine,KubernetesEngine,Networking
+0.0005,0.3,1.5,0.1,1e-05,0.5,0.05,14.0,5.35,1.4
