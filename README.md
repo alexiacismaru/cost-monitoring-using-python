@@ -4,6 +4,8 @@
 
 This is part of a bigger project that researches the best way of organizing a multi-cloud environment. This part focuses on cost management and data-driven solutions using artificial intelligence.
 
+**Medium article: https://medium.com/@alexia.csmr/monitoring-cloud-providers-for-cost-analysis-dfa2ec4b62ec**
+
 ## Features
 
 - Time series analysis: predicts future cost values, based on the previous reports from the cloud providers.
